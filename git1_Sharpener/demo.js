@@ -1,1 +1,1 @@
-console.log('I love git!')
+console.log('My first git commit')
